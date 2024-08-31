@@ -34,3 +34,5 @@ encoded_string <- run_length_encoding(input_string)
 
 cat("Original String: ", input_string, "\n")
 cat("Encoded String: ", encoded_string, "\n")
+
+
